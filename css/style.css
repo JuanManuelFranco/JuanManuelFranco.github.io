@@ -11,7 +11,7 @@ Import Google Fonts
 --------------------*/
 
 /* main font for menu. */
-@import url(http://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900);
+/* @import url(http://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900); */
 
 /*--------------------
 1. General
@@ -25,10 +25,16 @@ body {
 h1,
 h2,
 h3,
-h4,
 h5,
 h6 {
 	font-weight: 1000;
+	letter-spacing: 0.4px;
+	font-family: "Gilroy";
+	color: #232323;
+}
+h4{
+    font-weight: 1000;
+    font-size: 22px;
 	letter-spacing: 0.4px;
 	font-family: "Gilroy";
 	color: #232323;
@@ -195,7 +201,7 @@ section {
 --------------------*/
 
 .mz-about-container {
-    padding: 40px 35px;
+    padding: 40px 30px;
 }
 
 .mz-module-about {
@@ -320,6 +326,9 @@ figcaption {
     height: 100%;
 }
 
+.opacitytitulo{
+    opacity: 0;
+}
 figure.effect-bubba {
 	background: #000;
 	margin-bottom: 1px;
@@ -611,8 +620,8 @@ font-size: 11px;
 }
 
 .social {
-    margin: 0px 20px;
-    padding: 20px ;
+    margin: 0px 5px;
+    padding: 19px ;
     font-size: 15px;
     text-align: center;
     text-decoration: none;
@@ -621,7 +630,7 @@ font-size: 11px;
   }
 .btnresume {
     display: inline-block;
-    padding: 16px 60px;
+    padding: 16px 20px;
     margin-bottom: 0;
     font-size: 14px;
     font-weight: 550;
