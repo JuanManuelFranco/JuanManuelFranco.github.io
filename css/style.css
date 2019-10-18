@@ -17,6 +17,38 @@ Import Google Fonts
 1. General
 --------------------*/
 
+@font-face {
+    font-family: 'gilroyextrabold';
+    src: url('JuanManuelFranco.github.io/fonts/gilroy-extrabold-webfont.woff2') format('woff2'),
+         url('JuanManuelFranco.github.io/fonts/gilroy-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'gilroylight';
+    src: url('JuanManuelFranco.github.io/fonts/gilroy-light-webfont.woff2') format('woff2'),
+         url('JuanManuelFranco.github.io/fonts/gilroy-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'gilroyregular';
+    src: url('JuanManuelFranco.github.io/fonts/radomir_tinkov_-_gilroy-regular-webfont.woff2') format('woff2'),
+         url('JuanManuelFranco.github.io/fonts/radomir_tinkov_-_gilroy-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body {
 	margin: 0px;
 	font-family: "Gilroy",;
