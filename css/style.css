@@ -11,7 +11,7 @@ Import Google Fonts
 --------------------*/
 
 /* main font for menu. */
-/* @import url(http://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900); */
+ @import url(http://fonts.googleapis.com/css?family=Roboto:400|Raleway:200,300,400,500,700,900); 
 
 /*--------------------
 1. General
@@ -55,10 +55,11 @@ Import Google Fonts
     font-style: normal;
 
 }
-}
+
+
 body {
 	margin: 0px;
-	font-family: "gilroy",;
+	font-family: "Gilroy",;
 }
 
 h1,
@@ -75,7 +76,7 @@ h4{
     font-weight: 1000;
     font-size: 22px;
 	letter-spacing: 0.4px;
-	font-family: "Gilroy";
+	font-family: "gilroy";
 	color: #232323;
 }
 
