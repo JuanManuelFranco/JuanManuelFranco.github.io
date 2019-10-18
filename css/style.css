@@ -98,8 +98,7 @@ Import Google Fonts
 body {
 	margin: 0px;
     /* font-family: "gilroy-regularuploaded_file",; */
-    font-family: "Roboto";
-
+    font-family: 'Roboto', sans-serif;
 }
 
 h1,
@@ -110,8 +109,7 @@ h6 {
 	font-weight: 1000;
 	letter-spacing: 0.4px;
     /* font-family: "Gilroy"; */
-    font-family: "Roboto";
-
+    font-family: 'Roboto', sans-serif;
 	color: #232323;
 }
 h4{
@@ -120,14 +118,12 @@ h4{
 	letter-spacing: 0.4px;
 	/* font-family: "gilroy-regularuploaded_file"; */
     color: #232323;
-    font-family: "Roboto";
-
+    font-family: 'Roboto', sans-serif;
 }
 
 p {
     /* font-family: 'Gilroy'; */
-    font-family: "Roboto";
-
+    font-family: 'Roboto', sans-serif;
 	font-size: 17px;
 	font-weight: 300;
 	line-height: 28px;
