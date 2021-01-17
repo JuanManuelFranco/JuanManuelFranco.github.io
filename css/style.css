@@ -1164,7 +1164,7 @@ img.svg{
 }
 .arlo_tm_portfolio_filter li{
 	display:inline-block;
-	margin:0px 40px 0px 0px;
+	margin:0px 32px 0px 0px;
 }
 .arlo_tm_portfolio_filter li:last-child{margin-right: 0px;}
 .arlo_tm_portfolio_filter li a{
@@ -1195,7 +1195,7 @@ img.svg{
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
 .arlo_tm_portfolio_list > li{
-	width:33.3333%;
+	width:25%;
 	float:left;
 	position:relative;
 	margin: 0px 0px 30px 0px;
