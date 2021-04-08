@@ -518,7 +518,7 @@ function arlo_tm_animate_text(){
 			strings: ["User Experience", "Product Design", "Digital Business"],
 			loop: true,
 			startDelay: 1e3,
-			backDelay: 2e3
+			backDelay: 3e3
 		});
 }
 
