@@ -56,7 +56,7 @@ img.svg{
 	height: auto;
 	clear: both;
 	float: left;
-	
+
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */ 
@@ -529,7 +529,7 @@ img.svg{
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
 }
-.arlo_tm_title_holder.contact{padding-bottom: 93px;}
+.arlo_tm_title_holder.contact{padding-bottom: 93px;margin-top: 93px;}
 .arlo_tm_title_holder:before{
 	position: absolute;
 	content: "";
@@ -1758,7 +1758,8 @@ img.svg{
 	clear: both;
 	float: left;
 	background-color: #fff;
-	
+
+
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
 			box-sizing: border-box; /* Opera/IE 8+ */
@@ -1769,6 +1770,7 @@ img.svg{
 	float: left;
 	padding-right: 40px;
 	padding-bottom: 60px;
+
 
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
