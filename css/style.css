@@ -450,7 +450,7 @@ img.svg{
 	font-weight: 300;
 }
 .arlo_tm_hero_header_wrap .name_holder h3 span{
-	font-weight: 500;
+	font-weight: 600;
 	color: #fff;
 }
 .arlo_tm_hero_header_wrap .text_typing{
@@ -2052,11 +2052,13 @@ img.svg{
 /*---------------------------------------------------*/
 
 .arlo_tm_portfolio_single_wrap{
-	width: 100%;
+	width: 90%;
 	height: auto;
 	clear: both;
 	float: left;
 	padding-top: 150px;
+	padding-left: 10%;
+
 	
 	-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
 	   -moz-box-sizing: border-box; /* Firefox, other Gecko */
@@ -2065,7 +2067,7 @@ img.svg{
 .arlo_tm_portfolio_single_wrap .title_holder h3{
 	font-size: 50px;
     text-transform: uppercase;
-    font-weight: 500;
+    font-weight: 700;
     letter-spacing: -.5px;
     line-height: 1;
 	margin-bottom: 100px;
@@ -2119,7 +2121,7 @@ img.svg{
 }
 .arlo_tm_portfolio_single_wrap .details_wrap .rightbox p{line-height: 2;}
 .arlo_tm_portfolio_single_wrap .images_list{
-	width: 65%;
+	width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
@@ -2136,12 +2138,12 @@ img.svg{
 .arlo_tm_portfolio_single_wrap .images_list ul li{
 	margin: 0px 0px 50px 0px;
 	float: left;
-	width: 65%;
+	width: 100%;
 }
 .arlo_tm_portfolio_single_wrap .images_list ul li:last-child{margin-bottom: 0px;}
 .arlo_tm_portfolio_single_wrap .images_list ul li img{min-width: 100%;}
 .arlo_tm_portfolio_single_wrap .pagination_wrap{
-	width: 65%;
+	width: 100%;
 	height: auto;
 	clear: both;
 	float: left;
