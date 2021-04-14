@@ -515,7 +515,7 @@ function arlo_tm_animate_text(){
 	var animateSpan			= jQuery('.arlo_tm_animation_text_word');
 	
 		animateSpan.typed({
-			strings: ["User Experience", "Product Design", "Digital Business"],
+			strings: ["Web/mobile apps", "Interactive Systems", "Games, AR & VR"],
 			loop: true,
 			startDelay: 1e3,
 			backDelay: 3e3
